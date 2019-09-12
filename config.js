@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'IndieGoodz',
   subHeading:
-    "Coming Soon",
+    "",
   socialLinks: [
     {
       icon: 'fa-github',
